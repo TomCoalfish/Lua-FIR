@@ -1,0 +1,12 @@
+[submodule "remez-exchange"]
+	path = remez-exchange
+	url = https://github.com/janovetz/remez-exchange
+[submodule "firpm"]
+	path = firpm
+	url = https://github.com/sfilip/firpm
+[submodule "FastFIR"]
+	path = FastFIR
+	url = https://github.com/jontio/FastFIR
+[submodule "SampleRateConverter"]
+	path = SampleRateConverter
+	url = https://github.com/zephray/SampleRateConverter
