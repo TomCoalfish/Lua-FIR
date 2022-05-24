@@ -10,3 +10,33 @@
 [submodule "SampleRateConverter"]
 	path = SampleRateConverter
 	url = https://github.com/zephray/SampleRateConverter
+[submodule "fast-filters"]
+	path = fast-filters
+	url = https://github.com/jpcima/fast-filters
+[submodule "coreutil"]
+	path = coreutil
+	url = https://github.com/jpcima/coreutil
+[submodule "FIR_Filter"]
+	path = FIR_Filter
+	url = https://github.com/nathanLoretan/FIR_Filter
+[submodule "cuda_fir"]
+	path = cuda_fir
+	url = https://github.com/tylerjw/cuda_fir
+[submodule "fastfilter"]
+	path = fastfilter
+	url = https://github.com/RedhawkSDR/fastfilter
+[submodule "fir-simd"]
+	path = fir-simd
+	url = https://github.com/JanWilczek/fir-simd
+[submodule "complex_lms_adaptive_fir_filter"]
+	path = complex_lms_adaptive_fir_filter
+	url = https://github.com/Andrew-Montgomery/complex_lms_adaptive_fir_filter
+[submodule "FirFilterDesigner"]
+	path = FirFilterDesigner
+	url = https://github.com/aliihsancengiz/FirFilterDesigner
+[submodule "firker"]
+	path = firker
+	url = https://github.com/franciszekjuras/firker
+[submodule "multiplierless-cpp"]
+	path = multiplierless-cpp
+	url = https://github.com/luk036/multiplierless-cpp
